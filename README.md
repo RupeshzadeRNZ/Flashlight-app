@@ -20,7 +20,8 @@ The app allows users to utilize their device's camera LED as a flashlight with a
 
 # Screenshots
 
-![ss3](https://github.com/RupeshzadeRNZ/Flashlight-app/assets/124900974/7a4fec08-09f6-4ce2-a92f-45f9eaf6dd15)        ![ss2](https://github.com/RupeshzadeRNZ/Flashlight-app/assets/124900974/37eb0734-e575-42a4-9e0a-6dd3b3d5fa14)    ![ss3](https://github.com/RupeshzadeRNZ/Flashlight-app/assets/124900974/99a8672f-ecd4-4185-b84d-675e26f441a0)
+![ss3](https://github.com/RupeshzadeRNZ/Flashlight-app/assets/124900974/7a4fec08-09f6-4ce2-a92f-45f9eaf6dd15)        ![ss2](https://github.com/RupeshzadeRNZ/Flashlight-app/assets/124900974/37eb0734-e575-42a4-9e0a-6dd3b3d5fa14)    ![ss3](https://github.com/RupeshzadeRNZ/Flashlight-app/assets/124900974/99a8672f-ecd4-4185-b84d-675e26f441a0)  
+
 
 # Technologies Used: 
 - Kotlin: The programming language used for developing the app.
